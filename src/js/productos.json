@@ -1,0 +1,182 @@
+[
+    {
+        "id": "Item_1",
+        "titulo": "Item 1",
+        "imagen": "./img/Rangos/01.gif",
+        "categoria": {
+            "nombre": "Rangos",
+            "id": "Rangos"
+        },
+        "precio": 1
+    },
+    {
+        "id": "Item_2",
+        "titulo": "Item 2",
+        "imagen": "./img/Rangos/02.gif",
+        "categoria": {
+            "nombre": "Rangos",
+            "id": "Rangos"
+        },
+        "precio": 1
+    },
+    {
+        "id": "Item_3",
+        "titulo": "Item 3",
+        "imagen": "./img/Rangos/03.gif",
+        "categoria": {
+            "nombre": "Rangos",
+            "id": "Rangos"
+        },
+        "precio": 1
+    },
+    {
+        "id": "Item_4",
+        "titulo": "Item 4",
+        "imagen": "./img/Rangos/04.gif",
+        "categoria": {
+            "nombre": "Rangos",
+            "id": "Rangos"
+        },
+        "precio": 1
+    },
+    {
+        "id": "Item_5",
+        "titulo": "Item 5",
+        "imagen": "./img/Rangos/05.gif",
+        "categoria": {
+            "nombre": "Rangos",
+            "id": "Rangos"
+        },
+        "precio": 1
+    },
+    {
+        "id": "Item_6",
+        "titulo": "Item 6",
+        "imagen": "./img/Accesorios/01.gif",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "Accesorios"
+        },
+        "precio": 2
+    },
+    {
+        "id": "Item_7",
+        "titulo": "Item 7",
+        "imagen": "./img/Accesorios/02.gif",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "Accesorios"
+        },
+        "precio": 2
+    },
+    {
+        "id": "Item_8",
+        "titulo": "Item 8",
+        "imagen": "./img/Accesorios/03.gif",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "Accesorios"
+        },
+        "precio": 2
+    },
+    {
+        "id": "Item_9",
+        "titulo": "Item 9",
+        "imagen": "./img/Accesorios/04.gif",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "Accesorios"
+        },
+        "precio": 2
+    },
+    {
+        "id": "Item_10",
+        "titulo": "Item 10",
+        "imagen": "./img/Accesorios/05.gif",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "Accesorios"
+        },
+        "precio": 2
+    },
+    {
+        "id": "Item_11",
+        "titulo": "Item 11",
+        "imagen": "./img/Accesorios/06.gif",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "Accesorios"
+        },
+        "precio": 2
+    },
+    {
+        "id": "Item_12",
+        "titulo": "Item 12",
+        "imagen": "./img/Accesorios/07.gif",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "Accesorios"
+        },
+        "precio": 2
+    },
+    {
+        "id": "Item_13",
+        "titulo": "Item 13",
+        "imagen": "./img/Accesorios/08.gif",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "Accesorios"
+        },
+        "precio": 2
+    },
+    {
+        "id": "Item_14",
+        "titulo": "Item 14",
+        "imagen": "./img/Gemas/01.gif",
+        "categoria": {
+            "nombre": "Gemas",
+            "id": "Gemas"
+        },
+        "precio": 3
+    },
+    {
+        "id": "Item_15",
+        "titulo": "Item 15",
+        "imagen": "./img/Gemas/02.gif",
+        "categoria": {
+            "nombre": "Gemas",
+            "id": "Gemas"
+        },
+        "precio": 3
+    },
+    {
+        "id": "Item_16",
+        "titulo": "Item 16",
+        "imagen": "./img/Gemas/03.gif",
+        "categoria": {
+            "nombre": "Gemas",
+            "id": "Gemas"
+        },
+        "precio": 3
+    },
+    {
+        "id": "Item_17",
+        "titulo": "Item 17",
+        "imagen": "./img/Gemas/04.gif",
+        "categoria": {
+            "nombre": "Gemas",
+            "id": "Gemas"
+        },
+        "precio": 3
+    },
+    {
+        "id": "Item_18",
+        "titulo": "Item 18",
+        "imagen": "./img/Gemas/05.gif",
+        "categoria": {
+            "nombre": "Gemas",
+            "id": "Gemas"
+        },
+        "precio": 3
+    }
+]

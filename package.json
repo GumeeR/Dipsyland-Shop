@@ -1,0 +1,30 @@
+{
+  "name": "dipsyland-shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GumeeR/Dipsyland-Shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GumeeR/Dipsyland-Shop/issues"
+  },
+  "homepage": "https://github.com/GumeeR/Dipsyland-Shop#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mercadopago": "^2.3.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
