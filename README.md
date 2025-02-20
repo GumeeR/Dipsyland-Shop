@@ -1,15 +1,15 @@
-# Web Payment Gateway
+# 💳 Web Payment Gateway
 
 This project implements a web payment gateway using HTML, CSS, and JavaScript for the frontend, along with Node.js for integration with a payment API.
 
-## Features
+## ✨ Features
 - Attractive and responsive user interface.  
 - Integration with a payment API.  
 - Secure transaction handling.  
 - Data validation on both frontend and backend.  
 - Use of Ngrok to simulate an SSL certificate.  
 
-## Technologies Used  
+## 🛠️ Technologies  
 ### Frontend:  
 - HTML5  
 - CSS3  
@@ -19,7 +19,7 @@ This project implements a web payment gateway using HTML, CSS, and JavaScript fo
 - Node.js  
 - Payment API (MercadoPago)  
 
-## Installation  
+## ⚙️ Setup & Installation  
 
 ### Prerequisites  
 Make sure you have installed:  
